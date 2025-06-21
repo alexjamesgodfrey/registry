@@ -21,7 +21,7 @@ export default function Home() {
             <a href="/honeymoon">Honeymoon Fund</a>
           </li>
           <li className="mb-2 tracking-[-.01em] underline cursor-pointer">
-            <a href="/send">Send a Small Gift</a>
+            <a href="/send">Send a Gift</a>
           </li>
           <li className="tracking-[-.01em]">
             <a href="/bring">Bring a Small Gift or Check</a>
