@@ -33,7 +33,7 @@ export default function HoneymoonFundPage() {
           <CardContent className="flex flex-col items-center space-y-4">
             <div className="bg-white p-4 rounded-lg shadow-inner">
               <Image
-                src="/venmo.png"
+                src="/venmo.jpeg"
                 alt="Venmo QR Code"
                 width={200}
                 height={200}
@@ -41,7 +41,7 @@ export default function HoneymoonFundPage() {
               />
             </div>
             <p className="text-sm text-gray-600 text-center">
-              Venmo username @sierra
+              Venmo username @Sierra-Apicella
             </p>
           </CardContent>
         </Card>
